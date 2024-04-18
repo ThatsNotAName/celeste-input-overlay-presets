@@ -15,3 +15,4 @@
 ## Edit
 
 Please install the fonts in `fonts/` directory first if you want to edit the PSD files
+Additionally you can use [io-cct](https://github.com/univrsal/input-overlay/wiki/Usage#io-cct) to edit the position and keybinds. (The mouse click keybinds will require you to make a new element if you want to swap them to a keyboard key.)
