@@ -1,0 +1,139 @@
+{
+    "default_width": 128,
+    "default_height": 128,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 8,
+    "overlay_width": 840,
+    "overlay_height": 259,
+    "elements": [
+        {
+            "type": 1,
+            "pos": [
+                131,
+                0
+            ],
+            "id": "Up",
+            "z_level": 0,
+            "mapping": [
+                394,
+                1,
+                128,
+                128
+            ],
+            "code": 17
+        },
+        {
+            "type": 1,
+            "pos": [
+                131,
+                131
+            ],
+            "id": "Down",
+            "z_level": 0,
+            "mapping": [
+                525,
+                1,
+                128,
+                128
+            ],
+            "code": 31
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                131
+            ],
+            "id": "Left",
+            "z_level": 0,
+            "mapping": [
+                656,
+                1,
+                128,
+                128
+            ],
+            "code": 30
+        },
+        {
+            "type": 1,
+            "pos": [
+                262,
+                131
+            ],
+            "id": "Right",
+            "z_level": 0,
+            "mapping": [
+                787,
+                1,
+                128,
+                128
+            ],
+            "code": 32
+        },
+        {
+            "type": 3,
+            "pos": [
+                450,
+                0
+            ],
+            "id": "Left Click",
+            "z_level": 0,
+            "mapping": [
+                1,
+                1,
+                128,
+                128
+            ],
+            "code": 1
+        },
+        {
+            "type": 1,
+            "pos": [
+                450,
+                131
+            ],
+            "id": "JumpSp",
+            "z_level": 0,
+            "mapping": [
+                1,
+                263,
+                390,
+                128
+            ],
+            "code": 57
+        },
+        {
+            "type": 3,
+            "pos": [
+                712,
+                0
+            ],
+            "id": "mouse button7",
+            "z_level": 0,
+            "mapping": [
+                918,
+                1,
+                128,
+                128
+            ],
+            "code": 4
+        },
+        {
+            "type": 3,
+            "pos": [
+                581,
+                0
+            ],
+            "id": "Right Click",
+            "z_level": 0,
+            "mapping": [
+                132,
+                1,
+                128,
+                128
+            ],
+            "code": 2
+        }
+    ]
+}
