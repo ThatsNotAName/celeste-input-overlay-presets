@@ -4,13 +4,13 @@
     "space_h": 0,
     "space_v": 0,
     "flags": 8,
-    "overlay_width": 840,
-    "overlay_height": 259,
+    "overlay_width": 844,
+    "overlay_height": 264,
     "elements": [
         {
             "type": 1,
             "pos": [
-                131,
+                136,
                 0
             ],
             "id": "Up",
@@ -26,8 +26,8 @@
         {
             "type": 1,
             "pos": [
-                131,
-                131
+                136,
+                136
             ],
             "id": "Down",
             "z_level": 0,
@@ -43,7 +43,7 @@
             "type": 1,
             "pos": [
                 0,
-                131
+                136
             ],
             "id": "Left",
             "z_level": 0,
@@ -58,8 +58,8 @@
         {
             "type": 1,
             "pos": [
-                262,
-                131
+                272,
+                136
             ],
             "id": "Right",
             "z_level": 0,
@@ -74,7 +74,7 @@
         {
             "type": 3,
             "pos": [
-                450,
+                444,
                 0
             ],
             "id": "Left Click",
@@ -90,15 +90,15 @@
         {
             "type": 1,
             "pos": [
-                450,
-                131
+                444,
+                136
             ],
-            "id": "JumpSp",
+            "id": "Jump",
             "z_level": 0,
             "mapping": [
-                1,
+                394,
                 263,
-                390,
+                400,
                 128
             ],
             "code": 57
@@ -106,7 +106,7 @@
         {
             "type": 3,
             "pos": [
-                712,
+                716,
                 0
             ],
             "id": "mouse button7",
@@ -122,7 +122,7 @@
         {
             "type": 3,
             "pos": [
-                581,
+                580,
                 0
             ],
             "id": "Right Click",
